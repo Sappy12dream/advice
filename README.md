@@ -1,3 +1,3 @@
 # advice
 reactJS API
-https://github.com/Sappy12dream/advice
+https://sappy12dream.github.io/advice/
